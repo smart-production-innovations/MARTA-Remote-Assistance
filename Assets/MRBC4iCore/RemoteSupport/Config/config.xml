@@ -1,0 +1,12 @@
+<config>
+<client>
+	<icon-size>80</icon-size>
+	<icon-padding>10</icon-padding>
+	<font-size>32</font-size>
+</client>
+<server>
+	<icon-size>50</icon-size>
+	<icon-padding>10</icon-padding>
+	<font-size>18</font-size>
+</server>
+</config>

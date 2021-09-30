@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6572909448504135766
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6572909448504135764}
+  - component: {fileID: 6572909448504135765}
+  m_Layer: 0
+  m_Name: AnchorPointInitializer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6572909448504135764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572909448504135766}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 839.5674, y: 508.59418, z: 6.8223877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6572909448504135765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572909448504135766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40c76c8353df7cc4fb8923a27581d66b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  framework: 3
+  arFoundationBase: {fileID: 8731641873528488315, guid: 8a12738e168094842a103d8af0ac8150,
+    type: 3}
+  vuforiaBase: {fileID: 0}
+  planeFinderType: None
+  screenPoseConverterType: Basic
+  enableInteraction: 0
+  contextMenu: {fileID: 3124189095202713454, guid: f041dae2a3f31214f9d541f060b0bace,
+    type: 3}
+  storage: 0
+  loaderObject: {fileID: 0}
+  autoSave: 0
+  autoLoad: 0

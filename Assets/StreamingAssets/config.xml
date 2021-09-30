@@ -1,0 +1,34 @@
+<config>
+  <Default>
+    <ARActive>False</ARActive>
+    <ExpertHasCursorAnnotationActive>True</ExpertHasCursorAnnotationActive>
+    <ExpertHasDrawingAnnotationActive>True</ExpertHasDrawingAnnotationActive>
+    <ClientCanAnnotate>True</ClientCanAnnotate>
+    <HasLifeDrawingTool>True</HasLifeDrawingTool>
+    <ExpertHasProjectionLayerOption>False</ExpertHasProjectionLayerOption>
+    <ShowARPlanes>True</ShowARPlanes>
+    <ShowARFeaturePoints>True</ShowARFeaturePoints>
+    <DefaultExpertMicrophoneOn>True</DefaultExpertMicrophoneOn>
+    <DefaultClientMicrophoneOn>True</DefaultClientMicrophoneOn>
+    <DefaultExpertSpeakerOn>True</DefaultExpertSpeakerOn>
+    <DefaultClientSpeakerOn>True</DefaultClientSpeakerOn>
+    <DrawingHasColorTool>True</DrawingHasColorTool>
+    <DrawingHasPenWidthTool>False</DrawingHasPenWidthTool>
+    <DrawingHasPenTransparencyTool>False</DrawingHasPenTransparencyTool>
+    <DrawingHasPenTool>True</DrawingHasPenTool>
+    <DrawingHasEraserTool>False</DrawingHasEraserTool>
+    <DrawingHasShapeTool>False</DrawingHasShapeTool>
+    <DrawingHasImageTool>False</DrawingHasImageTool>
+    <DrawingHasArrowTool>True</DrawingHasArrowTool>
+    <DrawingHasTextTool>True</DrawingHasTextTool>
+    <DrawingHasLayerTool>False</DrawingHasLayerTool>
+    <DrawingHaClearTool>True</DrawingHaClearTool>
+    <HasChatFeature>True</HasChatFeature>
+    <Properties>True</Properties>
+    <HasBandwidthOptions>True</HasBandwidthOptions>
+    <Debug>True</Debug>
+    <DefaultValueLifeDrawing>False</DefaultValueLifeDrawing>
+    <DefaultValueLowBandwidthModeOn>False</DefaultValueLowBandwidthModeOn>
+	<GenerateUniqueKey>True</GenerateUniqueKey>
+  </Default>
+</config>
