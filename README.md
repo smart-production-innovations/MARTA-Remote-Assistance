@@ -4,7 +4,7 @@ MARTA (Mixed reAlity RemoTe Assistance) is a mixed reality supported remote assi
  
 If you find this code useful in your research, please consider citing:
  
-Andrea Aschauer, Irene Reisner-Kollmann, Josef Wolfartsberger, Creating an Open-Source Augmented Reality Remote Support Tool for Industry: Challenges and Learnings, Procedia Computer Science, Volume 180, 2021, Pages 269-279.
+**Andrea Aschauer, Irene Reisner-Kollmann, Josef Wolfartsberger, Creating an Open-Source Augmented Reality Remote Support Tool for Industry: Challenges and Learnings, _Procedia Computer Science_, Volume 180, 2021, Pages 269-279.**
  
 https://www.sciencedirect.com/science/article/pii/S1877050921002040
 https://doi.org/10.1016/j.procs.2021.01.164
